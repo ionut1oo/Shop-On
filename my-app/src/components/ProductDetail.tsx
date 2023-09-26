@@ -39,8 +39,6 @@ const ProductDetail: React.FC = () => {
       <Card.Img style={cardStyle} alt={selectedProduct.name} src={selectedProduct.imgUrl} />
         <Card.Body>
         <Card.Title className="text-center">{selectedProduct.name}</Card.Title> 
-        <Card.Text className="text-center" style={{fontStyle:'italic'}}>{selectedProduct.description}
-        </Card.Text>
         <Card.Text className="text-center">
               Price: {formatCurrency(selectedProduct.price)}
         </Card.Text>
