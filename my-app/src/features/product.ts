@@ -38,7 +38,7 @@ const initialState: ProductState = {
        "imgUrl":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8ePdevEjbc6m34_3VP5DgH-vrMsIdK82hG2eNIlqFt0rX6wOrAoMyzroR6JsQFPzRZWSbiH0CdAAgyNhWd2F60MMJnTK4v__sS85fxKmVmbvqHds0bBRl&usqp=CAc"
     },
     {
-        "id":4,
+        "id":4, 
         "name":"Lenovo T480s 14",
         "price":2790,
         "description":"ThinkPad T480s New Options Available Designed for mobile power Light, thin, and built to perform anywhere, the ThinkPad T480s delivers what you need, when you need it. Powerful processing and Dolby® Audio Premium™ take functional efficiency to new heights. In addition, the enhanced security features maintain maximum protection and peace of mind wherever you roam.",
